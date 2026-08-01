@@ -1,0 +1,3 @@
+Patient name: John, Age: 35
+Patient name: Mary, Age: 42
+Patient name: Peter, Age: 28
